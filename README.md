@@ -86,7 +86,7 @@ University of Calicut
 
 ## Connect With Me
 
-📧 Email: fathimafarhankk01@gmail.com  
-🌍 Location: Doha, Qatar  
-💼 LinkedIn: https://www.linkedin.com/in/fathimafarhankk  
-💻 GitHub: https://github.com/fathimafarhan-kk
+Email: fathimafarhankk01@gmail.com  
+Location: Doha, Qatar  
+LinkedIn: https://www.linkedin.com/in/fathimafarhankk  
+GitHub: https://github.com/fathimafarhan-kk

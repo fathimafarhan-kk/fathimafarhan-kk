@@ -3,7 +3,7 @@
 <a href="https://github.com/fathimafarhan-kk"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://medium.com/@fathimafarhankk01"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
-I am a Cybersecurity postgraduate and Certified Ethical Hacker (CEH) with hands-on experience in Vulnerability Assessment and Penetration Testing (VAPT), SOC operations, and network security. I enjoy solving security challenges, analyzing threats, and continuously learning new cybersecurity technologies.
+I am a Cybersecurity post graduate and Certified Ethical Hacker (CEH) with hands-on experience in Vulnerability Assessment and Penetration Testing (VAPT), SOC operations, and network security. I enjoy solving security challenges, analyzing threats, and continuously learning new cybersecurity technologies.
 
 ## Objective
 

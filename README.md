@@ -13,7 +13,7 @@ My journey in cybersecurity has strengthened my passion for security operations,
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Log Analysis & Monitoring                | <a href="https://github.com/fathimafarhan-kk">SSH Log Analysis using Splunk</a> |
+| SIEM Log Analysis & Monitoring                | <a href="https://github.com/fathimafarhan-kk/SSH-Log-Analysis-Using-Splunk-SIEM/blob/main/README.md">SSH Log Analysis using Splunk</a> |
 | Vulnerability Assessment & Penetration Testing| <a href="https://github.com/fathimafarhan-kk">Web & Mobile VAPT</a> |
 | Network Traffic Analysis                      | <a href="https://github.com/fathimafarhan-kk">Wireshark Traffic Monitoring</a> |
 | Security Incident Investigation               | <a href="https://github.com/fathimafarhan-kk">SOC Lab Practice</a> |
